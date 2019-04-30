@@ -155,7 +155,7 @@ def median3(a, b, c):
 ```python
 # Сигнатура на python
 def find_missing(arr):
-    # Впишите код тут, если решаете на python
+    # Впишите код тут
     return 0
 ```
 
